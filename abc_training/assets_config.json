@@ -1,0 +1,1073 @@
+{
+    "alphabet": [
+        { "l": "A", "ipa": "/eɪ/", "v": true }, { "l": "B", "ipa": "/bi:/", "v": false }, { "l": "C", "ipa": "/si:/", "v": false },
+        { "l": "D", "ipa": "/di:/", "v": false }, { "l": "E", "ipa": "/i:/", "v": true }, { "l": "F", "ipa": "/ef/", "v": false },
+        { "l": "G", "ipa": "/dʒi:/", "v": false }, { "l": "H", "ipa": "/eɪtʃ/", "v": false }, { "l": "I", "ipa": "/aɪ/", "v": true },
+        { "l": "J", "ipa": "/dʒeɪ/", "v": false }, { "l": "K", "ipa": "/keɪ/", "v": false }, { "l": "L", "ipa": "/el/", "v": false },
+        { "l": "M", "ipa": "/em/", "v": false }, { "l": "N", "ipa": "/en/", "v": false }, { "l": "O", "ipa": "/oʊ/", "v": true },
+        { "l": "P", "ipa": "/pi:/", "v": false }, { "l": "Q", "ipa": "/kju:/", "v": false }, { "l": "R", "ipa": "/ɑːr/", "v": false },
+        { "l": "S", "ipa": "/es/", "v": false }, { "l": "T", "ipa": "/ti:/", "v": false }, { "l": "U", "ipa": "/ju:/", "v": true },
+        { "l": "V", "ipa": "/vi:/", "v": false }, { "l": "W", "ipa": "/ˈdʌbəl.ju:/", "v": false }, { "l": "X", "ipa": "/eks/", "v": false },
+        { "l": "Y", "ipa": "/waɪ/", "v": true }, { "l": "Z", "ipa": "/zi:/", "v": false }
+    ],
+    "spellingDictation": [
+        { "w": "cat", "t": "кіт" }, { "w": "dog", "t": "собака" }, { "w": "sun", "t": "сонце" }, { "w": "pen", "t": "ручка" }, { "w": "cup", "t": "чашка" },
+        { "w": "bed", "t": "ліжко" }, { "w": "box", "t": "коробка" }, { "w": "map", "t": "карта" }, { "w": "car", "t": "автомобіль" }, { "w": "bus", "t": "автобус" },
+        { "w": "book", "t": "книга" }, { "w": "tree", "t": "дерево" }, { "w": "door", "t": "двері" }, { "w": "star", "t": "зірка" }, { "w": "fish", "t": "риба" },
+        { "w": "bird", "t": "птах" }, { "w": "milk", "t": "молоко" }, { "w": "hand", "t": "рука" }, { "w": "foot", "t": "стопа" }, { "w": "desk", "t": "парта" },
+        { "w": "chair", "t": "стілець" }, { "w": "lamp", "t": "лампа" }, { "w": "ship", "t": "корабель" }, { "w": "shoe", "t": "взуття" }, { "w": "coat", "t": "пальто" },
+        { "w": "hat", "t": "капелюх" }, { "w": "bag", "t": "сумка" }, { "w": "shop", "t": "магазин" }, { "w": "time", "t": "час" }, { "w": "game", "t": "гра" },
+        { "w": "name", "t": "ім'я" }, { "w": "home", "t": "дім" }, { "w": "face", "t": "обличчя" }, { "w": "room", "t": "кімната" }, { "w": "rain", "t": "дощ" },
+        { "w": "snow", "t": "сніг" }, { "w": "wind", "t": "вітер" }, { "w": "fire", "t": "вогонь" }, { "w": "wood", "t": "деревина" }, { "w": "rock", "t": "камінь" },
+        { "w": "water", "t": "вода" }, { "w": "bread", "t": "хліб" }, { "w": "apple", "t": "яблуко" }, { "w": "meat", "t": "м'ясо" }, { "w": "soup", "t": "суп" },
+        { "w": "rice", "t": "рис" }, { "w": "cake", "t": "торт" }, { "w": "bell", "t": "дзвінок" }, { "w": "ring", "t": "каблучка" }, { "w": "clock", "t": "годинник" },
+        { "w": "wall", "t": "стіна" }, { "w": "floor", "t": "підлога" }, { "w": "window", "t": "вікно" }, { "w": "girl", "t": "дівчинка" }, { "w": "boy", "t": "хлопчик" },
+        { "w": "man", "t": "чоловік" }, { "w": "woman", "t": "жінка" }, { "w": "child", "t": "дитина" }, { "w": "baby", "t": "немовля" }, { "w": "friend", "t": "друг" }
+    ],
+    "theory": [
+        {
+            "id": "closed", "title": "1. Закритий склад (Closed Syllable)", "rule": "Склад закінчується на приголосну. Голосна читається коротко.",
+            "words": [
+                { "id": "w_plan", "html": "pl<span class='hl-vowel'>a</span>n", "ipa": "/plæn/", "trans": "план", "ex": "What is your plan for today?", "ext": "Який у тебе план на сьогодні?" },
+                { "id": "w_desk", "html": "d<span class='hl-vowel'>e</span>sk", "ipa": "/desk/", "trans": "робочий стіл", "ex": "My keys are on the desk.", "ext": "Мої ключі на столі." },
+                { "id": "w_milk", "html": "m<span class='hl-vowel'>i</span>lk", "ipa": "/mɪlk/", "trans": "молоко", "ex": "We need to buy some milk.", "ext": "Нам потрібно купити молока." },
+                { "id": "w_hot", "html": "h<span class='hl-vowel'>o</span>t", "ipa": "/hɒt/", "trans": "гарячий", "ex": "The soup is very hot.", "ext": "Суп дуже гарячий." },
+                { "id": "w_cup", "html": "c<span class='hl-vowel'>u</span>p", "ipa": "/kʌp/", "trans": "чашка", "ex": "I want a cup of tea.", "ext": "Я хочу чашку чаю." }
+            ]
+        },
+        {
+            "id": "open", "title": "2. Відкритий склад (Vowel-Consonant-e)", "rule": "Склад закінчується на голосну (часто німу 'e'). Основна голосна читається як в алфавіті.",
+            "words": [
+                { "id": "w_plate", "html": "pl<span class='hl-vowel'>a</span>t<span class='hl-silent'>e</span>", "ipa": "/pleɪt/", "trans": "тарілка", "ex": "Put the sandwich on a plate.", "ext": "Поклади бутерброд на тарілку." },
+                { "id": "w_Pete", "html": "P<span class='hl-vowel'>e</span>t<span class='hl-silent'>e</span>", "ipa": "/piːt/", "trans": "Піт (ім'я)", "ex": "Pete is my friend.", "ext": "Піт - мій друг." },
+                { "id": "w_time", "html": "t<span class='hl-vowel'>i</span>m<span class='hl-silent'>e</span>", "ipa": "/taɪm/", "trans": "час", "ex": "What time is our meeting?", "ext": "О котрій годині наша зустріч?" },
+                { "id": "w_note", "html": "n<span class='hl-vowel'>o</span>t<span class='hl-silent'>e</span>", "ipa": "/nəʊt/", "trans": "нотатка", "ex": "Leave a note on the fridge.", "ext": "Залиш нотатку на холодильнику." },
+                { "id": "w_cute", "html": "c<span class='hl-vowel'>u</span>t<span class='hl-silent'>e</span>", "ipa": "/kjuːt/", "trans": "милий", "ex": "Look at this cute kitten.", "ext": "Подивись на це миле кошеня." }
+            ]
+        },
+        {
+            "id": "vowel_r", "title": "3. Голосна + R (R-controlled)", "rule": "Буква 'r' після голосної не читається як звичайна приголосна, але змінює і подовжує звук голосної.",
+            "words": [
+                { "id": "w_park", "html": "p<span class='hl-vowel'>ar</span>k", "ipa": "/pɑːk/", "trans": "парк", "ex": "We walk in the park every morning.", "ext": "Ми гуляємо в парку щоранку." },
+                { "id": "w_term", "html": "t<span class='hl-vowel'>er</span>m", "ipa": "/tɜːm/", "trans": "термін", "ex": "The autumn term starts soon.", "ext": "Осінній семестр починається скоро." },
+                { "id": "w_shirt", "html": "sh<span class='hl-vowel'>ir</span>t", "ipa": "/ʃɜːt/", "trans": "сорочка", "ex": "He is wearing a clean shirt.", "ext": "Він одягнений у чисту сорочку." },
+                { "id": "w_fork", "html": "f<span class='hl-vowel'>or</span>k", "ipa": "/fɔːk/", "trans": "виделка", "ex": "I need a knife and a fork.", "ext": "Мені потрібен ніж та виделка." },
+                { "id": "w_turn", "html": "t<span class='hl-vowel'>ur</span>n", "ipa": "/tɜːn/", "trans": "поворот", "ex": "Take a left turn here.", "ext": "Поверніть тут ліворуч." }
+            ]
+        },
+        {
+            "id": "vowel_re", "title": "4. Голосна + R + E", "rule": "Додається німа 'e', що часто створює дифтонг або трифтонг (складний звук).",
+            "words": [
+                { "id": "w_share", "html": "sh<span class='hl-vowel'>are</span>", "ipa": "/ʃeə/", "trans": "ділитися", "ex": "I can share my umbrella with you.", "ext": "Я можу поділитися з тобою парасолькою." },
+                { "id": "w_here", "html": "h<span class='hl-vowel'>ere</span>", "ipa": "/hɪə/", "trans": "тут", "ex": "Please, sit here.", "ext": "Будь ласка, сідайте тут." },
+                { "id": "w_fire", "html": "f<span class='hl-vowel'>ire</span>", "ipa": "/faɪə/", "trans": "вогонь", "ex": "We sat around the fire.", "ext": "Ми сиділи навколо вогнища." },
+                { "id": "w_store", "html": "st<span class='hl-vowel'>ore</span>", "ipa": "/stɔː/", "trans": "крамниця", "ex": "I am going to the grocery store.", "ext": "Я йду до продуктового магазину." },
+                { "id": "w_cure", "html": "c<span class='hl-vowel'>ure</span>", "ipa": "/kjʊə/", "trans": "лікувати", "ex": "They are trying to find a cure.", "ext": "Вони намагаються знайти ліки." }
+            ]
+        }
+    ],
+    "practice": [
+        {
+            "id": "pair_a", "title": "Порівняння A: Закритий vs Відкритий",
+            "closed": { "id": "p_plan", "html": "pl<span class='hl-vowel'>a</span>n", "ipa": "/plæn/", "trans": "план", "ex": "Do you have a plan?", "ext": "У тебе є план?" },
+            "open": { "id": "p_plane", "html": "pl<span class='hl-vowel'>a</span>n<span class='hl-silent'>e</span>", "ipa": "/pleɪn/", "trans": "літак", "ex": "The plane arrives at 5.", "ext": "Літак прибуває о 5." }
+        },
+        {
+            "id": "pair_i", "title": "Порівняння I: Закритий vs Відкритий",
+            "closed": { "id": "p_bit", "html": "b<span class='hl-vowel'>i</span>t", "ipa": "/bɪt/", "trans": "трохи", "ex": "I am a bit tired.", "ext": "Я трохи втомлений." },
+            "open": { "id": "p_bite", "html": "b<span class='hl-vowel'>i</span>t<span class='hl-silent'>e</span>", "ipa": "/baɪt/", "trans": "кусати", "ex": "Don't bite your nails.", "ext": "Не кусай нігті." }
+        },
+        {
+            "id": "pair_o", "title": "Порівняння O: Закритий vs Відкритий",
+            "closed": { "id": "p_hop", "html": "h<span class='hl-vowel'>o</span>p", "ipa": "/hɒp/", "trans": "стрибати", "ex": "The rabbit can hop.", "ext": "Кролик вміє стрибати." },
+            "open": { "id": "p_hope", "html": "h<span class='hl-vowel'>o</span>p<span class='hl-silent'>e</span>", "ipa": "/həʊp/", "trans": "сподіватися", "ex": "I hope it will be sunny.", "ext": "Сподіваюся, буде сонячно." }
+        },
+        {
+            "id": "pair_u", "title": "Порівняння U: Закритий vs Відкритий",
+            "closed": { "id": "p_cut", "html": "c<span class='hl-vowel'>u</span>t", "ipa": "/kʌt/", "trans": "різати", "ex": "Can you cut the bread?", "ext": "Можеш нарізати хліб?" },
+            "open": { "id": "p_cute", "html": "c<span class='hl-vowel'>u</span>t<span class='hl-silent'>e</span>", "ipa": "/kjuːt/", "trans": "милий", "ex": "Look at this cute puppy.", "ext": "Подивись на цього милого цуценя." }
+        },
+        {
+            "id": "pair_ar", "title": "Порівняння A: Закритий vs + R",
+            "closed": { "id": "p_cat", "html": "c<span class='hl-vowel'>a</span>t", "ipa": "/kæt/", "trans": "кіт", "ex": "The cat is sleeping.", "ext": "Кіт спить." },
+            "open": { "id": "p_car", "html": "c<span class='hl-vowel'>ar</span>", "ipa": "/kɑːr/", "trans": "машина", "ex": "My car is fast.", "ext": "Моя машина швидка." }
+        },
+        {
+            "id": "pair_or", "title": "Порівняння O: Закритий vs + R",
+            "closed": { "id": "p_pot", "html": "p<span class='hl-vowel'>o</span>t", "ipa": "/pɒt/", "trans": "горщик", "ex": "The pot is hot.", "ext": "Горщик гарячий." },
+            "open": { "id": "p_port", "html": "p<span class='hl-vowel'>or</span>t", "ipa": "/pɔːt/", "trans": "порт", "ex": "The ship left the port.", "ext": "Корабель покинув порт." }
+        },
+        {
+            "id": "pair_ir", "title": "Порівняння I: Закритий vs + R",
+            "closed": { "id": "p_bid", "html": "b<span class='hl-vowel'>i</span>d", "ipa": "/bɪd/", "trans": "ставка", "ex": "He made a bid.", "ext": "Він зробив ставку." },
+            "open": { "id": "p_bird", "html": "b<span class='hl-vowel'>ir</span>d", "ipa": "/bɜːd/", "trans": "птах", "ex": "A bird is singing.", "ext": "Птах співає." }
+        },
+        {
+            "id": "pair_er", "title": "Порівняння E: Закритий vs + R",
+            "closed": { "id": "p_ten", "html": "t<span class='hl-vowel'>e</span>n", "ipa": "/ten/", "trans": "десять", "ex": "I have ten apples.", "ext": "У мене десять яблук." },
+            "open": { "id": "p_term", "html": "t<span class='hl-vowel'>er</span>m", "ipa": "/tɜːm/", "trans": "термін", "ex": "The autumn term starts soon.", "ext": "Осінній семестр починається скоро." }
+        },
+        {
+            "id": "pair_ur", "title": "Порівняння U: Закритий vs + R",
+            "closed": { "id": "p_hut", "html": "h<span class='hl-vowel'>u</span>t", "ipa": "/hʌt/", "trans": "хатина", "ex": "The hut is in the forest.", "ext": "Хатина знаходиться в лісі." },
+            "open": { "id": "p_hurt", "html": "h<span class='hl-vowel'>ur</span>t", "ipa": "/hɜːt/", "trans": "ранити", "ex": "My leg hurts.", "ext": "У мене болить нога." }
+        }
+    ],
+    "drills": [
+        { 
+            "part": "PART 1", "title": "Drill 1", "desc": "Short 'a'. Consonants: b c d f g h j l m n p r s t x",
+            "lines": [
+                ["sat", "mat", "rat", "bat", "cat", "fat"],
+                ["cap", "sap", "map", "tap", "lap", "rap"],
+                ["am", "ram", "Sam", "ham", "dam", "jam"],
+                ["rag", "bag", "tag", "wag", "hag", "lag"],
+                ["can", "man", "ran", "tan", "fan", "pan"],
+                ["sad", "mad", "had", "lad", "pad", "dad"],
+                ["sat", "sap", "Sam", "sad"],
+                ["map", "man", "mad", "mat"],
+                ["tan", "tap", "tag", "tax"],
+                ["cab", "cat", "cap", "can"],
+                ["bag", "bad", "ban", "bat"],
+                ["hat", "ham", "hag", "had"],
+                ["rap", "rat", "ran", "rag"],
+                ["lad", "lap", "fan", "fat"],
+                ["sat", "man", "fat", "tan", "pat", "ban"],
+                ["map", "can", "mad", "cat", "man", "cab"],
+                ["rag", "cat", "lap", "ham", "bat", "tap"],
+                ["jam", "fan", "dam", "had", "tag", "rap"],
+                ["sat", "cap", "rag", "can", "sad", "mat", "sap"],
+                ["ram", "bag", "man", "mad", "rat", "map", "Sam"],
+                ["tag", "ran", "had", "bat", "tap", "ham", "wag"],
+                ["tan", "lad", "cat", "lap", "dam", "hag", "fan"],
+                ["pad", "fat", "rap", "jam", "lag", "pan", "dad"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 2", "desc": "Short 'o'.",
+            "lines": [
+                ["hot", "pot", "not", "rot", "got"],
+                ["sob", "rob", "mob", "fob", "bob"],
+                ["hop", "mop", "top", "pop", "lop"],
+                ["cog", "fog", "hog", "jog", "bog"],
+                ["sod", "rod", "nod", "hod", "pod"],
+                ["hop", "hot", "hog", "hod"],
+                ["pop", "pod", "pot", "pod"],
+                ["cob", "cog", "cod", "cot"],
+                ["Tom", "top", "top", "Tom"],
+                ["rob", "rod", "rob", "rot"],
+                ["mop", "mob", "mop", "mob"],
+                ["sob", "sod", "sod", "sob"],
+                ["hot", "mop", "not", "top", "pot", "lop"],
+                ["rob", "hop", "rod", "hog", "rot", "hod"],
+                ["got", "Tom", "nod", "sob", "jog", "pop"],
+                ["dot", "mop", "Tom", "cob", "jog", "pop", "hot", "cog"],
+                ["log", "pot", "hog", "lot", "sod", "fob", "got", "bob"],
+                ["not", "fog", "log", "pod", "pop", "rob", "sob", "rot"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 3 — Review", "desc": "Review of short 'a' and 'o'.",
+            "lines": [
+                ["sat", "bag", "ram", "cap", "lad", "tan"],
+                ["hog", "sod", "top", "got", "mob", "not"],
+                ["tag", "ran", "ham", "mop", "fog", "rod"],
+                ["lap", "man", "hat", "rob", "log", "dot"],
+                ["cat", "cot", "hat", "hot", "pat", "pot"],
+                ["rat", "rot", "map", "mop", "had", "hod"],
+                ["hog", "hag", "sod", "sad", "top", "tap"],
+                ["cob", "cab", "pad", "pod", "not", "Nat"],
+                ["pot", "cat", "bag", "log", "hod", "lad"],
+                ["mat", "mop", "cob", "cap", "tan", "Tom"],
+                ["hod", "jog", "fat", "fob", "nag", "lap"],
+                ["ran", "cog", "cot", "sob", "fan", "lad"],
+                ["rob", "bat", "sad", "pop", "lot", "man"],
+                ["bob", "lot", "tap", "jog", "mat", "pop", "fat", "pad"],
+                ["rob", "bat", "sob", "fan", "cat", "hot", "job", "cap"],
+                ["rod", "wag", "got", "map", "ran", "cob", "man", "cog"],
+                ["jam", "sat", "mop", "rag", "pod", "lap", "not", "had"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 4", "desc": "Short 'i'.",
+            "lines": [
+                ["sit", "fit", "hit", "bit", "kit"],
+                ["him", "rim", "dim", "Jim", "Tim"],
+                ["sip", "rip", "nip", "lip", "dip"],
+                ["win", "tin", "sin", "fin", "bin"],
+                ["fig", "rig", "pig", "big", "dig"],
+                ["hid", "lid", "did", "kid", "mid"],
+                ["rib", "fib", "bib", "fib", "rib"],
+                ["mix", "six", "fix", "six", "mix"],
+                ["hit", "him", "hid", "hip"],
+                ["sin", "sit", "sip", "six"],
+                ["rib", "rim", "rip", "rig"],
+                ["tin", "Tim", "tip", "tin"],
+                ["lid", "lip", "lit", "lip"],
+                ["pig", "pin", "pit", "pig"],
+                ["sit", "him", "fit", "rim", "hit", "dim"],
+                ["sip", "win", "rip", "tin", "hip", "sin"],
+                ["rid", "hid", "rig", "hit", "rim", "hip"],
+                ["mid", "dig", "bin", "dip", "pit", "lip"],
+                ["fin", "big", "kid", "fib", "six", "rib"],
+                ["tin", "fib", "pig", "sin", "bit", "rip", "pin", "sip"],
+                ["jig", "nip", "him", "hip", "did", "lip", "dip", "mix"],
+                ["hit", "bin", "hit", "fin", "fig", "six", "lip", "hid"],
+                ["big", "fit", "dig", "sit", "mid", "rig", "rib", "fix"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 5 — Review", "desc": "Review of short 'a', 'o', and 'i'.",
+            "lines": [
+                ["sat", "cap", "rag", "can", "sad", "mat"],
+                ["not", "sob", "hop", "cog", "sod", "pot"],
+                ["sit", "him", "sip", "win", "fig", "hid"],
+                ["mat", "sap", "rob", "mop", "fit", "rim"],
+                ["hat", "hot", "hit", "pat", "pot", "pit"],
+                ["tap", "top", "tip", "had", "hod", "hid"],
+                ["big", "bog", "bag", "lip", "lop", "lap"],
+                ["hat", "hit", "hot", "top", "tap", "tip"],
+                ["fit", "sat", "dot", "mop", "cap", "sip"],
+                ["rag", "rim", "rob", "sip", "sad", "sob"],
+                ["pod", "rip", "mat", "lag", "dim", "hot"],
+                ["bag", "pot", "log", "nip", "jig", "man"],
+                ["hip", "sob", "fan", "cat", "did", "fob"],
+                ["mix", "rod", "wag", "dip", "got", "map"],
+                ["pan", "sod", "lot", "pit", "jog", "six", "rip", "ram"],
+                ["rat", "hog", "dot", "Sam", "pop", "can", "kid", "rap"],
+                ["sad", "big", "wag", "fin", "nod", "dip", "dig", "top"],
+                ["Jim", "tan", "bog", "jab", "mob", "dam", "cot", "rim"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 6", "desc": "Short 'u'.",
+            "lines": [
+                ["nut", "hut", "cut", "gut", "but", "jut"],
+                ["fun", "run", "nun", "sun", "gun", "bun"],
+                ["up", "pup", "sup", "cup", "sup", "pup"],
+                ["rug", "mug", "pug", "jug", "dug", "bug"],
+                ["hub", "rub", "tub", "rub", "hub", "tub"],
+                ["bud", "mud", "cud", "mud", "bud", "cud"],
+                ["sum", "hum", "gum", "rum", "gum", "sum"],
+                ["hut", "hum", "hug", "hub"],
+                ["run", "rug", "rub", "rum"],
+                ["bus", "but", "bug", "bun"],
+                ["sup", "sun", "sum", "sun"],
+                ["cut", "cup", "cud", "cup"],
+                ["gun", "gut", "gum", "gun"],
+                ["cup", "fun", "hub", "sum", "rug", "bud"],
+                ["hut", "run", "bus", "cut", "sup", "nut"],
+                ["sun", "cup", "but", "rug", "hum", "nun"],
+                ["mud", "hum", "rub", "run", "pup", "mug"],
+                ["sup", "nun", "tub", "gum", "pug", "cud"],
+                ["hut", "mud", "hug", "rub", "bus", "cud", "sum", "jug", "run"],
+                ["tub", "dug", "jut", "tug", "gun", "bun", "rum", "hub", "nut"],
+                ["gun", "up", "cut", "sun", "tub", "gum", "mud", "fun", "hum"],
+                ["hut", "pup", "gut", "mug", "jut", "bug", "bun", "sum", "cup"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 7 — Review", "desc": "Review of short 'a', 'i', 'o', and 'u'.",
+            "lines": [
+                ["pad", "fat", "rap", "jam", "lag", "pan", "mad"],
+                ["tin", "fib", "pig", "lid", "bit", "rip", "him"],
+                ["big", "sat", "cap", "dig", "am", "fit", "hip"],
+                ["dot", "mop", "Tom", "cob", "jog", "pop", "sob"],
+                ["pan", "not", "pit", "dig", "hop", "hid", "sat"],
+                ["cup", "fun", "hub", "sum", "rug", "bud", "hut"],
+                ["big", "bag", "bog", "bug", "cat", "cot", "cut"],
+                ["hit", "hot", "hut", "hat", "sap", "sup", "sip"],
+                ["rum", "ram", "rim", "jug", "jog", "jig", "jog"],
+                ["bit", "bat", "but", "hum", "him", "ham", "him"],
+                ["pot", "fin", "sum", "hit", "nut", "cob", "tug"],
+                ["sad", "but", "dim", "rug", "dam", "hit", "cud"],
+                ["got", "dad", "bun", "nap", "gum", "mud", "top"],
+                ["sat", "dot", "mop", "tin", "cup", "fun", "bit"],
+                ["fib", "sip", "sum", "cob", "rug", "pop", "nun"],
+                ["rag", "can", "hut", "pin", "run", "fob", "up"],
+                ["sin", "tug", "rat", "pit", "hog", "but", "map"],
+                ["sip", "lot", "Sam", "sod", "hit", "mug", "had"],
+                ["gun", "pit", "cat", "pop", "kid", "lad", "bus"],
+                ["fib", "hag", "bat", "sum", "bun", "cot", "pit", "six"],
+                ["top", "mob", "tan", "tub", "pug", "hid", "rip", "bat"],
+                ["nod", "wag", "him", "dug", "pup", "dot", "hip", "dad"],
+                ["mix", "bob", "man", "dip", "jut", "nun", "pop", "dam"],
+                ["bag", "rod", "bug", "pod", "Jim", "map", "cud", "got"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 8", "desc": "Long vowel digraph 'ee'.",
+            "lines": [
+                ["deed", "feed", "heed", "need", "seed", "weed"],
+                ["beer", "deer", "jeer", "leer", "peer", "deer"],
+                ["feel", "heel", "reel", "keel", "peel", "feel"],
+                ["seek", "week", "peek", "meek", "reek", "leek"],
+                ["peep", "weep", "keep", "deep", "weep", "keep"],
+                ["beet", "feet", "meet", "feet", "meet", "beet"],
+                ["deem", "teem", "seem", "teem", "seem", "deem"],
+                ["reed", "reef", "reek", "reel", "reed"],
+                ["deer", "deep", "deed", "deem", "deep"],
+                ["peer", "peel", "peek", "peep", "peel"],
+                ["see", "seen", "seek", "seed", "seem"],
+                ["wee", "weed", "week", "weep", "week"],
+                ["keel", "keen", "keep", "keen", "keep"],
+                ["deer", "reed", "peer", "see", "deep", "deed"],
+                ["bee", "reef", "peel", "fee", "seen", "reek"],
+                ["beer", "wee", "feet", "weed", "lee", "peek"],
+                ["meet", "keel", "leek", "meek", "keen", "beet"],
+                ["seek", "feel", "leer", "need", "week", "keep"],
+                ["deem", "reel", "peep", "beef", "seep", "feed", "weep"],
+                ["leek", "heel", "keen", "deep", "reed", "peel", "seem"],
+                ["beet", "feet", "week", "leer", "heed", "keep", "need"],
+                ["eel", "jeer", "teem", "keel", "deed", "seem", "meet"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 9", "desc": "Consonant digraph 'sh'.",
+            "lines": [
+                ["dash", "cash", "gash", "lash"],
+                ["mash", "rash", "sash", "dash"],
+                ["dish", "fish", "wish", "dish"],
+                ["gush", "mush", "hush", "rush"],
+                ["sheep", "sheet", "sheer", "sheen"],
+                ["shod", "shot", "shop", "shod"],
+                ["ship", "shin", "shun", "shut"],
+                ["sheep", "dash", "ship", "mash"],
+                ["shod", "dish", "gush", "sheet"],
+                ["cash", "shin", "rash", "shot"],
+                ["fish", "mush", "sheer", "gash"],
+                ["shun", "sash", "shop", "wish"],
+                ["hush", "sheen", "lash", "shut"],
+                ["sham", "lash", "sheet", "rush"],
+                ["sheep", "shod", "cash", "fish", "shun", "hush"],
+                ["dash", "dish", "shin", "mush", "sash", "sheen"],
+                ["ship", "gush", "rash", "sheer", "shop", "lash"],
+                ["mash", "sheet", "shot", "gash", "wish", "shut"]
+            ] 
+        },
+        { 
+            "part": "PART 1", "title": "Drill 10", "desc": "Vowel digraph 'oo'.",
+            "lines": [
+                ["boot", "hoot", "root", "hoot"],
+                ["boon", "moon", "soon", "noon"],
+                ["cool", "fool", "tool", "pool"],
+                ["room", "loom", "doom", "boom"],
+                ["food", "mood", "rood", "food"],
+                ["roof", "hoof", "woof", "roof"],
+                ["hoop", "loop", "moor", "poor"],
+                ["root", "room", "rood", "roof"],
+                ["boot", "boon", "boom", "boot"],
+                ["hoot", "hoof", "hoop", "hoof"],
+                ["moor", "moon", "mood", "moon"],
+                ["boot", "moon", "cool", "room", "food"],
+                ["roof", "hoop", "boon", "hoot", "fool"],
+                ["loom", "mood", "hoof", "loop", "root"],
+                ["soon", "tool", "doom", "rood", "woof"],
+                ["moor", "shoot", "noon", "pool", "boom"],
+                ["poor", "toot", "doom", "woof", "cool"],
+                ["boot", "roof", "loom", "soon", "moor", "moon", "poor"],
+                ["hoop", "mood", "tool", "shoot", "cool", "boon", "toot"],
+                ["hoof", "doom", "noon", "hoot", "room", "loop", "rood"],
+                ["pool", "woof", "food", "root", "fool", "woof", "boom"]
+            ] 
+        },
+        {
+            "part": "PART 1", "title": "Drill 11", "desc": "Consonant digraphs 'ch' and 'tch'.",
+            "lines": [
+                ["chap", "chat", "chaff", "chap"],
+                ["chin", "chip", "chill", "chin"],
+                ["cheek", "cheer", "cheer", "cheek"],
+                ["witch", "pitch", "hitch", "itch", "ditch"],
+                ["hatch", "catch", "match", "latch", "patch"],
+                ["much", "such", "rich", "beech", "much"],
+                ["rich", "chap", "hatch", "chin", "ditch"],
+                ["cheek", "pitch", "chat", "catch", "chip"],
+                ["notch", "cheer", "hitch", "chaff", "match"],
+                ["chill", "beech", "chop", "itch", "chum"],
+                ["latch", "chop", "patch", "chin", "cheek"],
+                ["ditch", "chat", "chin", "notch", "catch"],
+                ["chill", "beech", "rich", "hatch", "such"],
+                ["chin", "rich", "cheek", "chap", "notch", "chill"],
+                ["latch", "chop", "cheer", "pitch", "beech", "hatch"],
+                ["chat", "chin", "hitch", "patch", "chop", "catch"],
+                ["chaff", "itch", "ditch", "chin", "chum", "chip"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 12 — Review", "desc": "Review of ee, sh, ch, tch, oo.",
+            "lines": [
+                ["seek", "feel", "leek", "meet", "deer", "beef"],
+                ["shut", "shod", "cash", "shop", "dish", "sash"],
+                ["sheep", "gush", "shot", "seen", "dash", "meet"],
+                ["boom", "hoop", "mood", "pool", "roof", "soon"],
+                ["beet", "boot", "shoot", "sheet", "seen", "soon"],
+                ["poor", "peer", "feel", "fool", "shoot", "sheet"],
+                ["hush", "moon", "feed", "noon", "shot", "deed"],
+                ["chat", "chum", "hitch", "chop", "catch", "rich"],
+                ["chip", "ship", "cash", "chop", "catch", "chop"],
+                ["ditch", "dish", "shin", "chin", "much", "mush"],
+                ["shut", "shod", "pitch", "cash", "chill", "such"],
+                ["cheek", "shop", "chap", "feed", "sheet", "ditch"],
+                ["notch", "shoot", "chat", "soon", "chip", "pool"],
+                ["chin", "week", "woof", "noon", "patch", "feet"],
+                ["chill", "boot", "sheep", "deem", "latch", "hoop"],
+                ["dash", "leek", "chat", "hoof", "ship", "beet"],
+                ["hitch", "pool", "mash", "eel", "rich", "roof"],
+                ["shod", "reed", "chop", "mood", "match", "dish"],
+                ["heel", "chin", "doom", "gush", "feet", "itch", "woof"],
+                ["sheet", "jeer", "cheek", "loon", "cash", "peep", "cheer"],
+                ["tool", "shin", "keen", "hitch", "noon", "rash", "week"],
+                ["ditch", "food", "shot", "teem", "chap", "soon", "fish"],
+                ["beef", "pitch", "shoot", "mush", "deep", "patch", "hoot"],
+                ["sheer", "keel", "chin", "root", "gash", "dee", "catch"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 13", "desc": "R-controlled vowel 'ar'.",
+            "lines": [
+                ["bar", "far", "car", "tar", "jar"],
+                ["mar", "star", "scar", "far", "car"],
+                ["cart", "dart", "hart", "mart", "part"],
+                ["card", "yard", "bard", "hard", "lard"],
+                ["ark", "lark", "park", "dark", "shark"],
+                ["arm", "farm", "harm", "charm", "farm"],
+                ["yarn", "barn", "darn", "harp", "sharp"],
+                ["arch", "ark", "arm", "art", "arm"],
+                ["hard", "hark", "harm", "harp", "hart"],
+                ["bar", "hard", "bark", "barn", "bark"],
+                ["car", "card", "Carl", "cart", "car"],
+                ["dark", "darn", "dart", "darn", "dark"],
+                ["mar", "march", "marsh", "mart", "mark"],
+                ["bar", "cart", "yarn", "arm", "card"],
+                ["ark", "barn", "yard", "lark", "dart"],
+                ["star", "farm", "park", "hart", "car"],
+                ["darn", "bard", "scar", "charm", "dark"],
+                ["harp", "mart", "card", "shark", "part"],
+                ["garb", "marsh", "tar", "yard", "sharp"],
+                ["chart", "hark", "mark", "sharp", "farm", "shark", "lard"],
+                ["part", "car", "harp", "charm", "dark", "hard", "mart"],
+                ["far", "scar", "hart", "bark", "harm", "darn", "star"],
+                ["dart", "yard", "lark", "arm", "mar", "march", "yarn"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 14", "desc": "Vowel digraphs 'ay' and 'ai'.",
+            "lines": [
+                ["say", "day", "hay", "lay", "ray", "nay"],
+                ["bay", "may", "pay", "jay", "way", "gay"],
+                ["slay", "play", "clay", "flay", "clay", "play"],
+                ["pray", "bray", "tray", "gray", "fray", "pray"],
+                ["may", "day", "pay", "way", "say", "slay"],
+                ["way", "gay", "gray", "lay", "slay", "play"],
+                ["nail", "sail", "fail", "rail", "tail", "wail"],
+                ["main", "rain", "Cain", "fain", "lain", "chain"],
+                ["paid", "maid", "laid", "wait", "gait", "bait"],
+                ["may", "main", "mail", "maid", "mail", "may"],
+                ["gay", "gait", "gain", "gait", "gay", "gray"],
+                ["pay", "paid", "pain", "pail", "pray", "play"],
+                ["say", "paid", "day", "gain", "pray", "main"],
+                ["nail", "bay", "slay", "rain", "mail", "may"],
+                ["lain", "slay", "maid", "pail", "pay", "rain"],
+                ["bray", "laid", "hay", "play", "bail", "tray"],
+                ["lay", "clay", "pain", "vail", "way", "laid"],
+                ["bait", "say", "chain", "gay", "vail", "gain", "fray", "vain"],
+                ["gray", "fain", "jay", "gait", "bail", "wait", "flay", "ray"],
+                ["maid", "jay", "jail", "may", "hail", "tray", "slay", "day"],
+                ["bay", "rain", "wait", "way", "play", "say", "pail", "chair"],
+                ["sail", "flay", "bail", "bray", "gay", "pain", "bait", "may"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 15", "desc": "R-controlled vowel 'or'.",
+            "lines": [
+                ["born", "corn", "horn", "torn", "worn", "morn"],
+                ["gort", "fort", "port", "sort", "fort", "short"],
+                ["fork", "pork", "cork", "cord", "lord", "ford"],
+                ["fort", "form", "fork", "ford"],
+                ["cork", "cord", "corn", "cord"],
+                ["pork", "port", "port", "pork"],
+                ["or", "fork", "sort", "born", "corn", "pork"],
+                ["fort", "orb", "cork", "horn", "port", "nor"],
+                ["cord", "torn", "sort", "fort", "worn", "cork"],
+                ["ford", "morn", "for", "pork", "fort", "horn"],
+                ["sort", "corn", "port", "nor", "fork", "or", "lord", "short"],
+                ["cord", "morn", "born", "nor", "for", "sort", "pork", "torn"],
+                ["orb", "corn", "lord", "horn", "fort", "cork", "short", "or"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 16", "desc": "Word family 'old'.",
+            "lines": [
+                ["old", "cold", "hold", "told", "bold"],
+                ["sold", "scold", "mold", "fold", "gold"],
+                ["bold", "told", "cold", "hold", "old"],
+                ["gold", "fold", "mold", "sold", "scold"],
+                ["mold", "cold", "hold", "old", "fold", "hold", "gold"],
+                ["told", "bold", "scold", "sold", "cold", "told", "fold"],
+                ["old", "gold", "hold", "cold", "bold", "scold", "mold"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 17 — Review", "desc": "Review of ar, or, old, ay, ai.",
+            "lines": [
+                ["harp", "mart", "card", "shark", "part"],
+                ["ford", "born", "sort", "pork", "fort"],
+                ["barn", "born", "form", "farm", "for"],
+                ["port", "part", "card", "cord", "car"],
+                ["garb", "cord", "harp", "orb", "darn"],
+                ["bold", "told", "cold", "hold", "old"],
+                ["fork", "barn", "old", "card", "port"],
+                ["gold", "sort", "pork", "arm", "sold"],
+                ["nail", "bay", "slay", "rain", "mail"],
+                ["vain", "star", "short", "gay", "hard"],
+                ["morn", "flay", "mark", "tail", "cord"],
+                ["tray", "marsh", "scold", "jail", "darn"],
+                ["bold", "main", "cart", "pay", "told"],
+                ["pray", "cold", "orb", "short", "bail"],
+                ["gold", "clay", "pork", "lain", "old"],
+                ["born", "cart", "clay", "cold", "orb"],
+                ["sail", "barn", "cold", "fort", "hay"],
+                ["bait", "park", "form", "card", "vain"],
+                ["say", "pork", "hold", "way", "gain"],
+                ["mart", "cork", "ray", "mold", "wail"],
+                ["gold", "sort", "hold", "gray", "yarn", "ark", "rain"],
+                ["told", "ford", "sold", "chain", "flay", "lark", "old"],
+                ["bay", "shark", "wait", "march", "hail", "short", "bold"],
+                ["maid", "torn", "part", "star", "may", "gain", "wail"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 18", "desc": "Short 'e'.",
+            "lines": [
+                ["bet", "net", "get", "pet", "set"],
+                ["jet", "wet", "let", "met", "bet"],
+                ["den", "hen", "men", "pen", "ten"],
+                ["beg", "keg", "leg", "peg", "Meg"],
+                ["bed", "fed", "led", "Ned", "red"],
+                ["wed", "shed", "red", "bed", "fed"],
+                ["bet", "beg", "bed", "bet", "Ben"],
+                ["met", "men", "Meg", "men", "met"],
+                ["pet", "pen", "peg", "pen", "pet"],
+                ["let", "leg", "led", "less", "let"],
+                ["bet", "den", "keg", "bed", "net"],
+                ["den", "wed", "beg", "hen", "jet"],
+                ["wet", "men", "net", "leg", "fed"],
+                ["shed", "pet", "peg", "ten", "get"],
+                ["red", "pen", "let", "bet", "Ned"],
+                ["pet", "Meg", "Ben", "set", "fed"],
+                ["net", "jet", "fed", "get", "ten", "Ned", "set", "leg"],
+                ["hen", "bed", "keg", "net", "set", "peg", "leg", "den"],
+                ["Meg", "pet", "pen", "wed", "men", "bet", "shed", "wed"],
+                ["wet", "red", "pet", "Ben", "less", "set", "web", "get"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 19 — Review", "desc": "Review of all short vowels.",
+            "lines": [
+                ["mat", "can", "wag", "mad", "ran", "cap"],
+                ["hot", "sob", "top", "jog", "nod", "got"],
+                ["tin", "fib", "pig", "sin", "bit", "rip"],
+                ["cup", "mug", "gun", "sum", "jug", "rub"],
+                ["bet", "Ben", "keg", "net", "wed", "set"],
+                ["pan", "beg", "not", "sat", "men", "hop"],
+                ["hit", "den", "hot", "red", "dig", "mop"],
+                ["wet", "fib", "bun", "fed", "tub", "dip"],
+                ["Ned", "pup", "wag", "map", "pen", "cud"],
+                ["pet", "nun", "net", "got", "dug", "pod"],
+                ["hip", "men", "man", "mix", "fat", "ten"],
+                ["big", "bag", "beg", "bug", "bog", "beg"],
+                ["bit", "bat", "but", "bet", "bat", "bet"],
+                ["leg", "log", "lag", "leg", "lag", "log"],
+                ["hum", "him", "ham", "hem", "him", "hem"],
+                ["den", "Dan", "din", "peg", "pig", "peg"],
+                ["ten", "tin", "tan", "red", "rid", "red"],
+                ["lad", "bet", "kit", "pop", "den", "cut"],
+                ["win", "met", "gun", "shot", "rat", "bed"],
+                ["get", "sat", "lot", "net", "sip", "tug"],
+                ["ten", "cob", "sit", "run", "leg", "hag"],
+                ["six", "man", "men", "cot", "cut", "bet", "bat", "hag", "fib"],
+                ["shot", "nun", "chip", "get", "hub", "shop", "chin", "gum", "bat"],
+                ["chop", "hat", "peg", "jut", "wig", "pen", "pin", "hid", "dad"],
+                ["rot", "shut", "hen", "tin", "led", "bat", "less", "cot", "jam"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 20", "desc": "Vowel digraph 'ea'.",
+            "lines": [
+                ["beats", "eat", "heat", "neat", "meat", "cheat"],
+                ["bean", "lean", "dean", "mean", "wean", "bean"],
+                ["deal", "heal", "peal", "seal", "veal", "weal"],
+                ["weak", "beak", "peak", "leak", "beak", "speak"],
+                ["leap", "reap", "heap", "leap", "heap", "cheap"],
+                ["bead", "lead", "read", "mead", "read", "bead"],
+                ["fear", "hear", "rear", "dear", "near", "shear"],
+                ["bean", "team", "seam", "steam", "cream", "dream"],
+                ["beat", "bean", "beam", "beak", "bead"],
+                ["read", "rear", "reap", "real", "reach"],
+                ["leak", "lead", "leaf", "lean", "leap"],
+                ["heat", "heap", "heal", "hear", "heat"],
+                ["mead", "meal", "mean", "meat", "mean"],
+                ["sea", "seal", "seam", "seats", "peak"],
+                ["pea", "peach", "peak", "peal", "preach"],
+                ["beach", "fear", "leap", "bead", "weak", "bean"],
+                ["seat", "beak", "hear", "lead", "lean", "reach"],
+                ["seam", "read", "heat", "peal", "dean", "heap"],
+                ["peach", "gear", "mead", "lead", "leap", "steam"],
+                ["seal", "mean", "neat", "wean", "near", "cream"],
+                ["dream", "shear", "cheap", "bead", "weal", "bean", "speak", "veal"],
+                ["team", "hear", "lead", "reap", "leaf", "zeal", "steam", "teach"],
+                ["each", "cream", "hear", "read", "beak", "deal", "fear", "cheap"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 21", "desc": "Vowel digraph 'oa'.",
+            "lines": [
+                ["oat", "boat", "coat", "goat", "moat"],
+                ["oak", "soak", "croak", "cloak", "soak"],
+                ["oar", "roar", "soar", "boar", "boar"],
+                ["coal", "goal", "shoal", "goal", "coal"],
+                ["toast", "coast", "boast", "roast", "coast"],
+                ["toad", "load", "road", "toad", "road"],
+                ["coat", "coal", "coax", "coach", "coast"],
+                ["road", "roam", "roar", "roast", "roach"],
+                ["loan", "load", "loam", "loaf", "load"],
+                ["boar", "boat", "boast", "goal", "goat"],
+                ["foam", "toad", "toast", "coal", "oar"],
+                ["oak", "boat", "goal", "coast", "soak"],
+                ["load", "boast", "road", "shoal", "coat"],
+                ["cloak", "loam", "goat", "roam", "croak"],
+                ["boar", "roach", "goat", "toat", "coal"],
+                ["road", "coat", "roast", "load", "oar", "coast", "roam", "boat"],
+                ["coax", "moat", "soap", "loan", "coach", "moan", "soar", "goal"],
+                ["roar", "loaf", "load", "roam", "goat", "croak", "oak", "shoal"],
+                ["toad", "roach", "oar", "toast", "hoar", "coal", "road", "oak"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 22", "desc": "Consonant digraph 'ck'.",
+            "lines": [
+                ["back", "sack", "hack", "rack", "tack"],
+                ["jack", "lack", "pack", "sack", "black"],
+                ["pick", "sick", "nick", "kick", "lick"],
+                ["tick", "Dick", "wick", "sick", "chick"],
+                ["rock", "sock", "mock", "dock", "tock"],
+                ["cock", "shock", "hock", "sock", "dock"],
+                ["tuck", "luck", "buck", "duck", "muck"],
+                ["beck", "peck", "speck", "neck", "deck"],
+                ["back", "pick", "peck", "tick", "lock"],
+                ["tuck", "jack", "luck", "shock", "speck"],
+                ["sock", "lack", "sick", "sack", "wick"],
+                ["deck", "tack", "beck", "hack", "buck"],
+                ["mock", "rack", "kick", "duck", "dock"],
+                ["muck", "tock", "lick", "neck", "back", "deck", "sock"],
+                ["nick", "mock", "pick", "jack", "Dick", "tack", "peck"],
+                ["tuck", "luck", "sick", "dock", "kick", "suck", "shock"],
+                ["speck", "hack", "duck", "lock", "pick", "buck", "wick"],
+                ["lack", "nick", "rock", "black", "sack", "luck", "tuck"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 23", "desc": "Vowel digraphs 'ow' and 'ou'.",
+            "lines": [
+                ["cow", "now", "how", "vow", "brow"],
+                ["owl", "fowl", "howl", "owl", "prowl"],
+                ["gown", "down", "town", "gown", "brown"],
+                ["cow", "how", "now", "brow", "prow"],
+                ["out", "bout", "shout", "rout", "bout"],
+                ["stout", "spout", "scout", "snout", "out"],
+                ["pouch", "couch", "vouch", "couch", "pouch"],
+                ["bound", "found", "hound", "pound", "sound"],
+                ["cow", "out", "owl", "pouch", "brown"],
+                ["gown", "our", "now", "bound", "stout"],
+                ["fowl", "foul", "down", "mound", "scout"],
+                ["how", "shout", "bout", "howl", "prow"],
+                ["couch", "town", "sour", "vow", "rowl"],
+                ["found", "cow", "round", "owl", "shout", "brown"],
+                ["down", "loud", "prow", "scout", "pouch", "our"],
+                ["cow", "round", "gown", "rout", "howl", "pound"],
+                ["out", "town", "foul", "bound", "now", "noun"],
+                ["sound", "couch", "town", "how", "out", "sour"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 24 — Review", "desc": "Review of ea, oa, ck, ow, ou.",
+            "lines": [
+                ["fear", "leap", "beat", "weak", "near", "read"],
+                ["foam", "road", "coal", "loaf", "coat", "coast"],
+                ["beat", "boat", "beast", "boast", "roach", "reach"],
+                ["loaf", "leaf", "read", "road", "croak", "creak"],
+                ["lean", "roam", "teach", "meat", "toad", "loan"],
+                ["back", "pick", "luck", "rock", "lick", "such"],
+                ["bean", "sack", "coat", "tick", "roar", "leap"],
+                ["cow", "town", "owl", "howl", "prow", "down"],
+                ["out", "our", "loud", "found", "couch", "stout"],
+                ["boat", "bout", "sour", "soar", "coach", "couch"],
+                ["heat", "round", "goat", "how", "team", "roach"],
+                ["lack", "fowl", "snout", "peach", "sick", "real"],
+                ["duck", "loan", "how", "load", "peck", "bout"],
+                ["dream", "soap", "sock", "vow", "moan", "our"],
+                ["cheap", "gown", "oar", "cream", "round", "owl"],
+                ["oak", "sick", "how", "hound", "loan", "seat"],
+                ["noun", "lock", "roar", "mean", "pound", "seal"],
+                ["steam", "fowl", "bean", "coach", "sack", "hound"],
+                ["each", "muck", "road", "down", "load", "vow", "toad"],
+                ["dream", "now", "tuck", "goal", "dock", "out", "our"],
+                ["pouch", "hound", "buck", "soak", "speak", "croak", "town"],
+                ["how", "shock", "foul", "boast", "preach", "loaf", "kick"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 25", "desc": "Long Vowel with Final 'e'.",
+            "lines": [
+                ["at", "ate", "rat", "rate", "fat", "fate"],
+                ["can", "cane", "man", "mane", "Dan", "Dane"],
+                ["gap", "gape", "cap", "cape", "tap", "tape"],
+                ["mad", "made", "bad", "bade", "lad", "lade"],
+                ["sit", "site", "bit", "bite", "kit", "kite"],
+                ["din", "dine", "pin", "pine", "fin", "fine"],
+                ["rid", "ride", "hid", "hide", "bid", "bide"],
+                ["hop", "hope", "mop", "mope", "pop", "pope"],
+                ["cod", "code", "rod", "rode", "cod", "code"],
+                ["us", "use", "cut", "cute", "plum", "plume"],
+                ["pal", "pale", "pop", "pope", "pin", "pine"],
+                ["can", "cane", "cod", "code", "cut", "cute"],
+                ["fine", "fin", "fate", "fat", "file", "fill"],
+                ["hide", "hid", "hope", "hop", "hate", "hat"],
+                ["slide", "slid", "slime", "slim", "slope", "slop"],
+                ["lake", "like", "Luke", "male", "mile", "mule"],
+                ["bode", "bide", "bade", "dame", "dime", "dome"],
+                ["lane", "line", "lone", "pale", "pile", "pole"],
+                ["hole", "hale", "wide", "wade", "rode", "ride"],
+                ["cane", "cone", "dive", "dove", "cape", "cope"],
+                ["rave", "rove", "rate", "rite", "ripe", "rope"],
+                ["lane", "line", "wide", "wade", "dote", "date"],
+                ["time", "tame", "cone", "cane", "mine", "mane"],
+                ["bide", "rate", "bad", "made", "mad", "mule", "bade", "male"],
+                ["win", "wine", "hole", "bode", "case", "tone", "shine", "shin"],
+                ["dike", "rode", "pile", "duke", "poke", "dive", "mat", "mite"],
+                ["cave", "mute", "rid", "rove", "cove", "wave", "rip", "rope"],
+                ["ripe", "mule", "rule", "wine", "man", "mine", "lone", "mane"],
+                ["mile", "not", "mole", "time", "bat", "den", "dine", "pane"]
+            ]
+        },
+        {
+            "part": "PART 1", "title": "Drill 26 — General Review", "desc": "General Review of All Preceding Drills.",
+            "lines": [
+                ["seek", "feel", "week", "keep", "meet", "seem", "feet", "weed"],
+                ["ship", "rash", "sheep", "fish", "cash", "sheet", "shot", "hush"],
+                ["boot", "loop", "tool", "shoot", "fool", "soon", "moon", "food"],
+                ["chat", "hitch", "chop", "rich", "match", "cheek", "beech", "chum"],
+                ["chart", "part", "harm", "march", "bark", "sharp", "marsh", "dark"],
+                ["say", "pain", "play", "pail", "stay", "rain", "maid", "nail"],
+                ["fork", "born", "short", "form", "horn", "for", "fort", "corn"],
+                ["old", "bold", "told", "sold", "gold", "fold", "mold", "scold"],
+                ["set", "men", "bed", "less", "peg", "red", "hem", "ten"],
+                ["beat", "beach", "team", "steam", "neat", "fear", "read", "shear"],
+                ["oat", "coat", "soak", "coal", "goal", "coach", "coast", "roast"],
+                ["back", "pick", "luck", "sick", "chick", "shock", "sock", "sack"],
+                ["cow", "out", "couch", "town", "found", "down", "sound", "gown"],
+                ["rate", "mine", "poke", "mule", "time", "chase", "code", "plume"],
+                ["gold", "chin", "wine", "week", "pork", "tail", "horn", "ship"],
+                ["hound", "now", "food", "card", "hole", "luck", "coach", "seem"],
+                ["how", "loud", "tack", "duke", "fed", "sheep", "leg", "road"],
+                ["play", "star", "rain", "mane", "marsh", "bold", "stay", "wait"],
+                ["fowl", "shoot", "rich", "sold", "may", "blade", "chain", "seat"],
+                ["found", "soap", "cream", "gown", "ripe", "cheer", "pain", "lone"],
+                ["beef", "sash", "meet", "soon", "jet", "ditch", "web", "cloak"],
+                ["loaf", "heat", "round", "roach", "ford", "kick", "dark", "cork"],
+                ["main", "clay", "barn", "hail", "sheet", "moon", "catch", "wet"],
+                ["boat", "duck", "steam", "town", "met", "team", "tool", "shark"],
+                ["cow", "dock", "oat", "meat", "short", "cold", "bark", "tray"],
+                ["fork", "gear", "pen", "much", "ship", "roast", "couch", "eat"],
+                ["duke", "corn", "patch", "leaf", "way", "scold", "hard", "room"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 27", "desc": "Ending 'ing'.",
+            "lines": [
+                ["sing", "wing", "ring", "king", "bring", "ding"],
+                ["fling", "sling", "cling", "fling", "sting", "swing"],
+                ["singing", "winging", "ringing", "bringing", "dinging"],
+                ["paying", "wishing", "farming", "chaining", "beating"],
+                ["fishing", "kicking", "backing", "packing", "cheering"],
+                ["hushing", "matching", "morning", "arming", "farming"],
+                ["slinging", "parking", "pitching", "catching", "tacking"],
+                ["harming", "sorting", "saying", "slaying", "marching"],
+                ["playing", "raining", "holding", "shocking", "gaining"],
+                ["barking", "laying", "feeding", "bringing", "howling"],
+                ["boating", "shouting", "licking", "waiting", "darting"],
+                ["ring", "cling", "sting", "wing", "king", "fling", "bring"],
+                ["steaming", "howling", "mocking", "charming", "hushing", "farming"],
+                ["staying", "dreaming", "laying", "shouting", "gaining", "barking"],
+                ["holding", "scolding", "marching", "matching", "harming", "feeling"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 28", "desc": "Word family 'all'.",
+            "lines": [
+                ["all", "ball", "tall", "fall", "hall", "call"],
+                ["wall", "hall", "ball", "wall", "tall", "stall"],
+                ["calling", "falling", "stalling", "small"],
+                ["tall", "ball", "hall", "stalling", "fall", "small"],
+                ["wall", "all", "calling", "ball", "hall", "call"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 29", "desc": "Word family 'ight'.",
+            "lines": [
+                ["fight", "might", "sight", "right", "might"],
+                ["light", "tight", "wight", "bright", "fright"],
+                ["flight", "plight", "slight", "light", "tight"],
+                ["fighting", "lighting", "sighting", "slighting"],
+                ["fight", "tight", "right", "sight", "night", "weight"],
+                ["flight", "fighting", "fright", "plight", "light", "slight"],
+                ["bright", "sighting", "might", "fright", "fight", "might"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 30", "desc": "Digraphs 'th', 'wh', and 'qu'.",
+            "lines": [
+                ["than", "then", "them", "this", "thus"],
+                ["thin", "that", "thou", "thus", "this"],
+                ["that", "thee", "then", "them", "than"],
+                ["when", "white", "which", "whip", "whale"],
+                ["wheat", "wheel", "whim", "which", "white"],
+                ["that", "when", "then", "whip", "this"],
+                ["them", "then", "which", "white", "than"],
+                ["wheat", "the", "this", "wheel", "whale"],
+                ["thine", "them", "whim", "while", "thus"],
+                ["quack", "quick", "quake", "quail", "queen"],
+                ["queer", "quest", "quit", "quote", "quick"],
+                ["quail", "quaint", "quell", "quill", "quilt"],
+                ["thou", "white", "quick", "this", "quit"],
+                ["when", "then", "queen", "than", "queer"],
+                ["thus", "quack", "which", "quake", "them"],
+                ["thus", "thou", "queer", "quit", "this", "white"],
+                ["quack", "when", "quail", "that", "queer", "wheat"],
+                ["with", "wheel", "tithe", "quote", "quest", "which"],
+                ["thine", "while", "quick", "than", "lathe", "then"],
+                ["whale", "them", "bathe", "quick", "which", "quack"],
+                ["with", "quick", "quack", "wheat", "then", "when"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 31", "desc": "R-controlled vowels 'er', 'ir', 'ur'.",
+            "lines": [
+                ["her", "herd", "herb", "verb", "per", "pert"],
+                ["fern", "stern", "perch", "term", "wert", "her"],
+                ["fir", "sir", "stir", "bird", "gird", "girl"],
+                ["dirt", "shirt", "girt", "birch", "firm", "first"],
+                ["her", "fir", "bird", "under", "stir", "stern"],
+                ["herd", "bird", "birch", "perch", "firm", "never"],
+                ["fur", "cur", "burn", "turn", "lurk", "Turk"],
+                ["cur", "curd", "curb", "curl", "hurl", "hurt"],
+                ["churn", "sir", "herb", "girl", "burst", "fern"],
+                ["harder", "smarter", "barter", "charter"],
+                ["fir", "turn", "bird", "hurt", "her", "shirt"],
+                ["churn", "herd", "curl", "bird", "sir", "harder"],
+                ["burst", "stir", "charter", "verb", "hurl", "burn"],
+                ["bird", "curl", "cleaner", "blacker", "girl", "fir"],
+                ["fern", "cur", "churn", "stern", "under", "firm"],
+                ["birch", "charter", "never", "sir", "stir", "fur"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 32 — Review", "desc": "Review of ing, all, ight, th, wh, qu, er, ir, ur.",
+            "lines": [
+                ["sing", "ring", "bring", "king", "wings", "wing"],
+                ["all", "ball", "fall", "tall", "halls", "tall"],
+                ["fight", "right", "bright", "might", "sight", "light"],
+                ["that", "then", "them", "this", "than", "thus"],
+                ["when", "white", "wheat", "wheel", "while", "whip"],
+                ["quack", "quick", "queen", "queer", "quit", "quake"],
+                ["herd", "fern", "charter", "her", "stern", "pert"],
+                ["sir", "firm", "birch", "first", "bird", "girl"],
+                ["curl", "burn", "lurk", "curb", "churn", "burst"],
+                ["fight", "sing", "burn", "which", "that", "ball"],
+                ["quit", "quitting", "while", "fall", "right", "per"],
+                ["bird", "than", "queen", "light", "singing", "this"],
+                ["thee", "seeing", "whim", "quack", "fright", "whipping"],
+                ["cleaner", "thou", "when", "falling", "quest", "Turk"],
+                ["lighting", "small", "quote", "sir", "white", "then"],
+                ["whip", "when", "that", "then", "quack", "quit"],
+                ["bring", "sting", "bright", "might", "ringing", "queen"],
+                ["them", "while", "verb", "with", "quake", "queer"],
+                ["burst", "fight", "calling", "wheat", "whip", "thus"],
+                ["holding", "plight", "then", "harder", "quit", "small"],
+                ["cur", "quaint", "marching", "call", "whale", "king"],
+                ["quick", "hall", "lathe", "thou", "when", "charter"],
+                ["with", "quote", "stir", "thee", "tight", "cheering"],
+                ["feeding", "this", "all", "morning", "tithe", "tall"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 33 — General Review", "desc": "General Review of Part I.",
+            "lines": [
+                ["sat", "cap", "rag", "can", "mop", "hot", "rod", "fob"],
+                ["tin", "pig", "rip", "did", "hut", "bug", "sun", "but"],
+                ["let", "leg", "fed", "ten", "mate", "rode", "dime", "tune"],
+                ["hit", "met", "time", "neck", "bug", "line", "shock", "date"],
+                ["not", "cat", "note", "mutt", "wade", "mute", "ripe", "man"],
+                ["lake", "sack", "lot", "cute", "rip", "rope", "hole", "kite"],
+                ["deer", "see", "keep", "feet", "sheep", "cash", "ship", "fish"],
+                ["boot", "moon", "shoot", "food", "rich", "chop", "catch", "such"],
+                ["car", "barn", "shark", "part", "day", "play", "rain", "paid"],
+                ["for", "corn", "cork", "fort", "gold", "old", "scold", "cold"],
+                ["meet", "wish", "soon", "itch", "hard", "may", "port", "scold"],
+                ["much", "sash", "fool", "torch", "feel", "scar", "hold", "pain"],
+                ["shell", "clay", "chip", "weep", "star", "mold", "porch", "boon"],
+                ["seat", "read", "reach", "heat", "boat", "coal", "coat", "load"],
+                ["back", "kick", "shock", "duck", "cow", "out", "owl", "town"],
+                ["sing", "ring", "bring", "wing", "ball", "small", "fall", "calling"],
+                ["fight", "right", "bright", "light", "that", "them", "then", "this"],
+                ["when", "white", "while", "whip", "queen", "quick", "queer", "quit"],
+                ["her", "per", "harder", "sir", "girl", "stir", "cur", "turn"],
+                ["light", "quake", "bead", "which", "croak", "kicking", "then", "when"],
+                ["barter", "crowd", "tall", "gird", "thou", "curd", "quite", "peck"],
+                ["hall", "quick", "howling", "blight", "reach", "roach", "shout", "than"],
+                ["light", "quake", "bead", "lurk", "with", "when", "croak", "kicking"],
+                ["fight", "crowd", "tall", "wheat", "thou", "coat", "quite", "peck"],
+                ["fall", "per", "howling", "light", "king", "reach", "roach", "stout"],
+                ["bite", "quake", "torn", "poorer", "when", "pope", "cloak", "couch"],
+                ["cute", "fine", "seem", "quail", "storm", "boom", "wheat", "Turk"],
+                ["crowd", "old", "seeing", "peach", "arm", "stop", "all", "wheel"],
+                ["veal", "park", "stir", "form", "week", "say", "boat", "scar"],
+                ["speck", "rule", "then", "bean", "bird", "with", "farmer", "gold"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 34", "desc": "Word families 'an', 'in', 'un'.",
+            "lines": [
+                ["ran", "ban", "can", "Dan", "fan", "man"],
+                ["pan", "tan", "van", "Nan", "can", "ran"],
+                ["and", "band", "land", "hand", "sand", "stand"],
+                ["pin", "tin", "sin", "win", "din", "kin"],
+                ["hint", "tint", "hint", "mint", "lint", "flint"],
+                ["ban", "bin", "fin", "fan", "tan", "tin"],
+                ["run", "bun", "fun", "nun", "sun", "gun"],
+                ["hunt", "blunt", "stunt", "blunt", "hunt"],
+                ["ran", "run", "sin", "sun", "fun", "fin"],
+                ["bun", "ban", "bin", "fin", "fun", "fan"],
+                ["pin", "pan", "plan", "and", "land", "tin", "win", "twin"],
+                ["fin", "bin", "ban", "bun", "hand", "ran", "run", "sin"],
+                ["sand", "fun", "fan", "lint", "tint", "band", "hunt", "sun"],
+                ["nun", "spin", "span", "gun", "run", "can", "stand", "fun"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 35", "desc": "Word families 'en', 'on'.",
+            "lines": [
+                ["den", "fen", "ken", "men", "pen", "ten"],
+                ["tend", "bend", "lend", "send", "mend", "wend"],
+                ["sent", "bent", "went", "lent", "dent", "pent"],
+                ["on", "Don", "bond", "fond", "pond"],
+                ["den", "Don", "bond", "bend", "pond"],
+                ["con", "bond", "ten", "men", "fond"],
+                ["Don", "wend", "fond", "bent", "con"],
+                ["Dan", "din", "Don", "den", "ran", "band"],
+                ["fan", "fin", "fun", "fen", "fan", "fond"],
+                ["pan", "plan", "pen", "pin", "spin", "pen"],
+                ["tin", "tan", "ten", "bond", "bend", "run"],
+                ["lent", "pond", "lint", "lend", "bond", "went", "band", "lend"],
+                ["pent", "hint", "fond", "pond", "send", "band", "fun", "run"],
+                ["ran", "pin", "spin", "span", "man", "bun", "sun", "sin"],
+                ["ten", "tend", "hand", "went", "nun", "mend", "bend", "twin"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 36", "desc": "Word families 'ink', 'ank', 'unk'.",
+            "lines": [
+                ["ink", "wink", "ink", "clink", "blink"],
+                ["pink", "sink", "stink", "chink", "pink"],
+                ["fank", "rank", "bank", "lank", "tank"],
+                ["drank", "prank", "crank", "Frank", "drank"],
+                ["sunk", "chunk", "junk", "chunk", "drunk"],
+                ["sink", "sank", "sunk", "drank", "drink", "drunk"],
+                ["sinking", "drinking", "cranking", "winking"],
+                ["sunk", "bank", "blank", "blink", "bank"],
+                ["tank", "junk", "crank", "chink", "chunk"],
+                ["clink", "sunk", "drank", "chink", "tank", "sink"],
+                ["prank", "rank", "stink", "chunk", "wink", "drinking"],
+                ["pink", "sinking", "junk", "blank", "lank", "sunk"],
+                ["bank", "drink", "sank", "blank", "winking", "blink"]
+            ]
+        },
+        {
+            "part": "PART 2", "title": "Drill 37 — Review", "desc": "Review of an, in, un, en, on, ink, ank, unk.",
+            "lines": [
+                ["ran", "ban", "land", "pan", "sand", "hand"],
+                ["pin", "lint", "win", "sin", "mint", "tin"],
+                ["fun", "bun", "sun", "nun", "run", "gun"],
+                ["hen", "sent", "went", "send", "men", "bend"],
+                ["Don", "con", "fond", "bond", "pond", "fond"],
+                ["ran", "wink", "sun", "went", "pond", "send"],
+                ["sink", "pink", "drink", "chink", "blink", "clink"],
+                ["bank", "rank", "drank", "crank", "Frank", "sank"],
+                ["sunk", "chunk", "junk", "drunk", "junk", "sunk"],
+                ["wink", "chunk", "sank", "drunk", "link", "tank"],
+                ["chink", "hen", "dent", "tint", "sank", "bond"],
+                ["win", "hunt", "clan", "junk", "winning", "blink"],
+                ["spin", "land", "hen", "pond", "bend", "run"],
+                ["win", "sank", "man", "chunk", "ink", "mend"],
+                ["stunt", "rank", "on", "pink", "tent", "can"],
+                ["drank", "win", "pen", "drink", "Dan", "pond"],
+                ["ran", "junk", "sand", "went", "bank", "sin"],
+                ["ran", "bank", "ink", "pink", "sank", "drunk"],
+                ["in", "tin", "spin", "bun", "gun", "den"],
+                ["bend", "van", "stun", "sank", "drank", "sunk"],
+                ["drink", "spin", "spinning", "running", "and", "hand"],
+                ["pond", "bond", "tent", "went", "sinking", "bend"],
+                ["drunk", "mint", "twin", "land", "sent", "blink"],
+                ["lend", "men", "chunk", "clink", "ten", "sun"]
+            ]
+        }
+    ],
+    "ipa": [
+        {
+            "group": "Короткі голосні (Short Vowels)",
+            "items": [
+                { "sym": "æ", "soundPrompt": "a", "ex": "cat", "desc": "середній звук між 'а' та 'е'. Пригадайте, як ви кажете 'а' у лікаря, коли він дивиться ваше горло та притискає ваш язик донизу" },
+                { "sym": "ɪ", "soundPrompt": "ih", "ex": "sit", "desc": "можна промовляти як нашу 'і', але краще буде навчитися знаходити середину між 'е' та 'і', більш розслаблений звук, губи не так сильно розтягуються як для 'і'" },
+                { "sym": "ɒ", "soundPrompt": "o", "ex": "hot", "desc": "можна промовляти як 'о' або іноді як середній звук між 'о' та 'а'" },
+                { "sym": "ʌ", "soundPrompt": "uh", "ex": "cup", "desc": "майже схоже на 'а', але не так сильно розкриваємо рота, все більш розслаблено." },
+                { "sym": "e", "soundPrompt": "eh", "ex": "pen", "desc": "широко розтягуємо губи, схоже на наше 'е'" },
+                { "sym": "ʊ", "soundPrompt": "uh", "ex": "put", "desc": "наше 'у' але трохи з додаванням 'ю'" },
+                { "sym": "ə", "soundPrompt": "uh", "ex": "about", "desc": "звук 'ьо', як словах 'трьох', 'льох'" }
+            ]
+        },
+        {
+            "group": "Довгі голосні (Long Vowels)",
+            "items": [
+                { "sym": "i:", "soundPrompt": "ee", "ex": "see", "desc": "довгий звук 'і', довший приблизно в 1,5 рази" },
+                { "sym": "ɑ:", "soundPrompt": "ah", "ex": "car", "desc": "довгий звук 'а', довший приблизно в 1,5 рази" },
+                { "sym": "ɔ:", "soundPrompt": "aw", "ex": "door", "desc": "довгий звук 'о' довший приблизно в 1,5 рази" },
+                { "sym": "u:", "soundPrompt": "oo", "ex": "blue", "desc": "довгий звук 'у' (пам'ятаємо трохи додати 'ю' до нього), довший приблизно в 1,5 рази" },
+                { "sym": "ɜ:", "soundPrompt": "er", "ex": "bird", "desc": "довгий звук 'ьо' довший приблизно в 1,5 рази" }
+            ]
+        },
+        {
+            "group": "Дифтонги (Diphthongs)",
+            "items": [
+                { "sym": "eɪ", "soundPrompt": "ay", "ex": "day", "desc": "звук 'еі', не плутати з 'ей'" },
+                { "sym": "aɪ", "soundPrompt": "eye", "ex": "my", "desc": "звук 'аі', не плутати з 'ай'" },
+                { "sym": "ɔɪ", "soundPrompt": "oy", "ex": "boy", "desc": "звук 'оі', не плутати з 'ой'" },
+                { "sym": "aʊ", "soundPrompt": "ow", "ex": "cow", "desc": "звук 'ау'" },
+                { "sym": "əʊ", "soundPrompt": "oh", "ex": "go", "desc": "звук 'оу' або 'о' кажемо як 'ьо' в британській версії" },
+                { "sym": "ɪə", "soundPrompt": "ear", "ex": "here", "desc": "звук 'іе', звук 'е' ненаголошений, майже звучить як 'ьо'" },
+                { "sym": "eə", "soundPrompt": "air", "ex": "hair", "desc": "звук 'еа', 'а' також ненаголошене, майже звучить як 'ьо'" }
+            ]
+        },
+        {
+            "group": "Приголосні (Consonants)",
+            "items": [
+                { "sym": "θ", "soundPrompt": "th", "ex": "think", "desc": "шепелявий звук 'с'. Кінчик язика ставимо між зубами и продуваємо повітря у простір між зубами та язиком, без голосу" },
+                { "sym": "ð", "soundPrompt": "th", "ex": "this", "desc": "шепелявий звук 'з' Кінчик язика ставимо між зубами и продуваємо повітря у простір між зубами та язиком але з голосом." },
+                { "sym": "ʃ", "soundPrompt": "sh", "ex": "she", "desc": "звук 'щ'" },
+                { "sym": "ʒ", "soundPrompt": "zh", "ex": "vision", "desc": "звук 'жь'" },
+                { "sym": "tʃ", "soundPrompt": "ch", "ex": "cheese", "desc": "звук 'ч'" },
+                { "sym": "dʒ", "soundPrompt": "j", "ex": "jump", "desc": "звук 'джь'" },
+                { "sym": "ŋ", "soundPrompt": "ng", "ex": "sing", "desc": "носовий звук 'н'. Кінчик язика впираємо у верхнє піднебіння, перекриваючи доступ повітря через рот, тому кажемо 'н', але повітря виходить носом." },
+                { "sym": "j", "soundPrompt": "y", "ex": "yes", "desc": "наш звук 'й'" }
+            ]
+        }
+    ]
+}
