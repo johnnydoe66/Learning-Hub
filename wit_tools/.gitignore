@@ -1,0 +1,6 @@
+wit_gui.json
+__pycache__/
+build/
+dist/
+*.spec
+bin/_extract/
